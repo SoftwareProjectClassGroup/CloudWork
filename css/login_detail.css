@@ -1,0 +1,82 @@
+body{
+	background: url(../img/pic01.jpg) no-repeat;
+	background-size: cover;
+	font-family: "微软雅黑";
+	margin:0;
+	padding:0;
+}
+
+form{
+	width: 306px;
+	height:185px;
+	margin-top: 300px;
+	margin-left: 200px;
+	border:1px solid rgba(202,202,217,0.5);
+}
+
+.header{
+	font-size: 14px;
+	color: #FFFFFF;
+	background: url(../img/icon3.png) no-repeat right;
+	height: 27px;
+	padding-left: 10px;
+	padding-top:5px;
+	margin-right: 10px;
+}
+
+.line{
+	height:1px;
+	background: #CACAD9;
+}
+
+.username{
+	height:30px;
+	padding-left: 30px;
+	margin-left:25px;
+	margin-top:10px;
+	background: url(../img/icon1.png) no-repeat left;
+}
+
+.username input{
+	height:25px;
+	border-radius: 5px;
+	padding-left:5px;
+}
+.password{
+	height:30px;
+	padding-left: 30px;
+	margin-left:25px;
+	margin-top:10px;
+	background: url(../img/icon2.png) no-repeat left;
+}
+
+.password input{
+	height:25px;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+
+.button{
+	width:232px;
+	height:23px;
+	background:#267F12;
+	text-align: center;
+	line-height: 23px;
+	color:#000000;
+	font-size:14px;
+	font-weight: bold;
+	margin-top:20px;
+	margin-left: 40px;
+	border:none;
+	outline:none;	
+}
+
+.footer{
+	color:#FFFFFF;
+	font-size: 12px;
+	margin-top:10px;
+	float:right;
+	margin-right:5px;
+	display: block;
+	text-decoration: none;
+}

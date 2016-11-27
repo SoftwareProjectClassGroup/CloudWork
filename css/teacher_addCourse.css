@@ -1,0 +1,86 @@
+*{
+	padding:0;
+	margin:0;
+}
+body{
+	background: url(../img/pic01.jpg) no-repeat;
+	background-size: cover;
+	font-family: "微软雅黑";
+}
+
+.outer{
+	border:none;
+	border-bottom: 1px solid rgba(202,202,217,0.5);
+	border-top: 1px solid rgba(202,202,217,0.7);
+	background: rgba(0,0,0,0.3);
+	margin-top:250px;
+	height:300px;
+	width:100%;
+}
+
+.pic{
+	width:15%;
+	height:100%;
+	float:left;
+	text-align: center;
+}
+
+.form{
+	float:right;
+	width:85%;
+	height:100%;
+}
+
+.pic img{
+	margin-top: 80px;
+	margin-left: 80px;
+	display: block;
+}
+
+span{
+	display: block;
+	margin-top:50px;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+
+.form img{
+	float:right;
+	margin-top:10px;
+	margin-right: 10px;
+}
+
+input{
+	padding-left: 5px;
+	display: block;
+	height:36px;
+	background: none;
+	border-radius: 5px;
+	margin-left: 15px;
+	margin-top:15px;
+}
+
+textarea{
+	padding-left: 5px;
+	padding-top: 5px;
+	display: block;
+	background: none;
+	margin-top:15px;
+	width:830px;
+	height:73px;
+	margin-left: 15px;
+	border-radius: 5px;
+}
+
+button{
+	width:680px;
+	height:40px;
+	display: block;
+	background: none;
+	font-size: 20px;
+	color:#FFFFFF;
+	outline: none;
+	border-radius: 5px;
+	margin-left:65px;
+	margin-top: 30px;
+}
