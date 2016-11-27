@@ -1,0 +1,30 @@
+body{
+	background: url(../img/pic01.jpg) no-repeat;
+	background-size: cover;
+	font-family: "微软雅黑";
+}
+
+.mark1{
+	color:#FFFFFF;
+	font-weight: bold;
+	font-size: 64px;
+	z-index: 10;
+	margin-top: 340px;
+	margin-left: 180px;
+}
+
+.mark2{
+	height:60px;
+	width:215px;
+	background: #268210;
+	color: #000000;
+	line-height: 40px;
+	text-align: center;
+	margin-top:80px;
+	margin-left:240px;
+	font-size: 40px;
+	font-weight: 800;
+	border: none;
+	border-radius: 10px;
+	outline: none;
+}

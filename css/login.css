@@ -1,0 +1,35 @@
+body{
+	background: url(../img/pic01.jpg) no-repeat;
+	background-size: cover;
+	font-family: "微软雅黑";
+}
+
+.circle1{
+	height:136px;
+	width:150px;
+	border:none;
+	border-radius: 75px/68px;
+	background: #268210;
+	color: #000000;
+	font-size: 36px;
+	font-weight: bold;
+	margin-left: 200px;
+	margin-top:300px;
+	line-height: 136px;
+	text-align: center;
+}
+
+.circle2{
+	height:136px;
+	width:150px;
+	border:none;
+	border-radius: 75px/68px;
+	background: #268210;
+	color: #000000;
+	font-size: 36px;
+	font-weight: bold;
+	margin-left: 200px;
+	margin-top:20px;
+	line-height: 136px;
+	text-align: center;
+}

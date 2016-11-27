@@ -1,0 +1,26 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	background: url(../img/pic01.jpg) no-repeat;
+	background-size: cover;
+	font-family: "微软雅黑";
+	color:#FFFFFF;
+}
+
+header{
+	margin-top:300px;
+	margin-left: 150px;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+div{
+	margin-top: 20px;
+	margin-left: 100px;
+}
+
+p{
+	line-height: 30px;
+}
